@@ -60,3 +60,10 @@ rm -rf %{buildroot}%{_datadir}/doc/termit/
 %{_datadir}/applications/%{name}.desktop
 %{_mandir}/man1/%{name}.1.*
 
+
+
+%changelog
+* Thu May 24 2012 Matthew Dawkins <mattydaw@mandriva.org> 2.9.3-1
++ Revision: 800433
+- imported package termit
+
