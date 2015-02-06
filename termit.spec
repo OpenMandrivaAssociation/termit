@@ -1,7 +1,7 @@
 Summary:	Simple terminal emulator based on vte library
 Name:		termit
 Version:	2.9.3
-Release:	1
+Release:	2
 Group:		Terminals
 License:	GPLv2
 URL:		http://wiki.github.com/nonstop/termit/
