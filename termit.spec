@@ -4,7 +4,7 @@ Version:	2.9.3
 Release:	2
 Group:		Terminals
 License:	GPLv2
-URL:		http://wiki.github.com/nonstop/termit/
+URL:		https://wiki.github.com/nonstop/termit/
 Source0:	http://cloud.github.com/downloads/nonstop/%{name}/%{name}-%{version}.tar.xz
 
 BuildRequires:	cmake
